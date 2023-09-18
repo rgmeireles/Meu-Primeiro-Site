@@ -1,0 +1,26 @@
+body {
+    font-family: Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #82abb6;
+    padding: 20px;
+}
+
+h1,h2,h3 {
+    color:#333;
+}
+section {
+    margin: 20px;
+}
+table {
+    width: 100%;
+}
+img {
+    width: 700px;
+    height: 950px;
+}
+.container{
+    text-align: center;
+} 
