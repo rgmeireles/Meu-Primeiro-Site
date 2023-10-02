@@ -9,7 +9,13 @@ body {
 
 
 h1,h2,h3 {
-    color:#333;
+    color: plum;
+    border: solid;
+    font-style: oblique;
+    text-align: center;
+    font-family: cursive;
+    background-color: gainsboro;
+    border-radius: 25px 0 25px 0;
 }
 section {
     margin: 115px;
@@ -18,8 +24,10 @@ table {
     width: 105%;
 }
 img {
-    width: 700px;
-    height: 950px;
+    width: 650px;
+    height: 900px;
+    border-radius: 40px 40px 40px 40px;
+
 }
 .container{
             text-align: center;
